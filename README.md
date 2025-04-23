@@ -11,17 +11,16 @@ A simple yet powerful Flutter desktop application designed to help you organize 
 
 ## 📸 Screenshots
 
-*(**Important:** Replace these placeholder links with actual screenshots of your running application!)*
+*(**Note:** These are placeholder images. Replace them with actual screenshots of your application!)*
 
-| Feature             | Screenshot                                        | Description                                                                 |
-| :------------------ | :------------------------------------------------ | :-------------------------------------------------------------------------- |
-| **Main Layout**     | `![Main Layout](screenshots/main_layout.png)`     | The core two-pane view: Table of Contents on the left, content area on the right. |
-| **Nested ToC**      | `![Nested ToC](screenshots/toc_nested.png)`       | Demonstrating the layered Table of Contents with expanded sub-categories.   |
-| **Content Editing** | `![Content Editing](screenshots/content_editing.png)` | Showing text being edited, the save button, and the live preview below.     |
-| **Image Drop**      | `![Image Drop](screenshots/image_drop.png)`       | Images displayed in the drop zone after being dragged from the desktop.     |
-| **Selection**       | `![Selection Highlight](screenshots/selection.png)` | Highlighting how a selected category looks in the ToC and loads its content. |
+| Feature             | Screenshot                                                                                                                             | Description                                                                 |
+| :------------------ | :------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- |
+| **Main Layout**     | ![Main Layout Placeholder](https://placehold.co/400x250/E8E8E8/A0A0A0?text=Main+Layout%0A(ToC+%7C+Content))                             | The core two-pane view: Table of Contents on the left, content area on the right. |
+| **Nested ToC**      | ![Nested ToC Placeholder](https://placehold.co/400x250/E8E8E8/A0A0A0?text=Nested+ToC%0A-%20Cat%201%0A%20%20-%20SubCat%20A%0A-%20Cat%202) | Demonstrating the layered Table of Contents with expanded sub-categories.   |
+| **Content Editing** | ![Content Editing Placeholder](https://placehold.co/400x250/E8E8E8/A0A0A0?text=Content+Editing%0A[Editor+Area]%0A[Preview]%0A[Save])   | Showing text being edited, the save button, and the live preview below.     |
+| **Image Drop**      | ![Image Drop Placeholder](https://placehold.co/400x250/E8E8E8/A0A0A0?text=Image+Drop%0A[Img]%20[Img]%0A[Img]%20[Img])                   | Images displayed in the drop zone after being dragged from the desktop.     |
+| **Selection**       | ![Selection Highlight Placeholder](https://placehold.co/400x250/E8E8E8/A0A0A0?text=Selection%0A-%20Item%201%0A%3E%20Item%202%20%3C%0A-%20Item%203) | Highlighting how a selected category looks in the ToC and loads its content. |
 
----
 
 ## ✨ Features
 
