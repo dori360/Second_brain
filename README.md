@@ -83,27 +83,22 @@ A simple yet powerful Flutter desktop application designed to help you organize 
 
 ---
 
+      
 ## 📁 Project Structure
 
-    
-
-IGNORE_WHEN_COPYING_START
-Use code with caution. Markdown
-IGNORE_WHEN_COPYING_END
-
+```text
 knowledge-organizer-v2/
 ├── lib/
-│ └── main.dart # Main application code (UI, state, logic)
-├── screenshots/ # <--- YOU NEED TO CREATE THIS FOLDER
-│ ├── main_layout.png # <--- Add your screenshots here
-│ ├── toc_nested.png
-│ └── ... # <--- Add other screenshots
-├── pubspec.yaml # Project dependencies and metadata
-├── README.md # This file
-└── ... # Other Flutter project files (windows, macos, linux, etc.)
+│   └── main.dart       # Main application code (UI, state, logic)
+├── screenshots/        # <--- YOU NEED TO CREATE THIS FOLDER
+│   ├── main_layout.png # <--- Add your screenshots here
+│   ├── toc_nested.png
+│   └── ...             # <--- Add other screenshots
+├── pubspec.yaml        # Project dependencies and metadata
+├── README.md           # This file
+└── ...                 # Other Flutter project files (windows, macos, linux, etc.)
 
-      
----
+
 
 ## 🔮 Future Enhancements (Roadmap)
 
